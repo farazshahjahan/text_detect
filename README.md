@@ -1,1 +1,1 @@
-# text_detect
+Here we will detect whether the text from the user gives a positive feeling or negative feeling by classifying the text as positive, negative, or neutral. In the code, Vader sentiment analysis and Tkinter are used. Tkinter is a standard GUI library for creating the GUI application.
